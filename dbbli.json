@@ -1,0 +1,452 @@
+[
+  {
+    "name": "Apple MacBook Air (M3, 2023)",
+    "slug": "apple-macbook-air",
+    "description": "Boasting excellent performance, long battery life, and a sleek design, the Apple M3 with 8GB of unified memory and 256GB-2TB of SSD storage powers a stunning 13.6-inch, 2560 x 1664 Retina display. Incredibly thin and light, it's perfect for those on the go, weighing in at just under 3 pounds. Equipped with Thunderbolt 4 ports for versatile connectivity, you can connect to high-resolution displays and transfer files at blazing-fast speeds. Delivering up to 15 hours of wireless web browsing or up to 20 hours of video playback on a single charge, you can stay productive all day without needing to reach for a charger. Immerse yourself in captivating audio with its six-speaker sound system with spatial audio support",
+    "excerpt": "Sleek, Powerfull. Now with the Apple M3",
+    "price": 18029000,
+    "tags": ["Laptop", "Electronics"],
+    "thumbnail": "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/macbookair-og-202402?wid=1200&hei=630&fmt=jpeg&qlt=95&.v=1707414684423",
+    "images": [
+      "https://store.storeimages.cdn-apple.com/4982/as-images.apple.com/is/macbookair-og-202402?wid=1200&hei=630&fmt=jpeg&qlt=95&.v=1707414684423",
+      "https://www.zdnet.com/a/img/resize/fade22d2af84b0fb82abcf1af4fc650ac0856a25/2024/03/04/6571c255-430c-471b-a84f-c8b5526cd7cf/dsc09975-2.jpg?auto=webp&width=1280"
+    ],
+    "createdAt": "2023-12-15T15:32:06.350Z",
+    "updatedAt": "2024-03-18T14:47:12.101Z"
+  },
+  {
+    "name": "Acer Swift Go 14",
+    "slug": "acer-swift-go-14",
+    "description": "The Acer Swift Go 14 is a stylish and powerful laptop that is built to last. The all-aluminum chassis is not only stylish but also incredibly durable, built to withstand the bumps and bruises of everyday use. Packing a powerful Intel Core Ultra 7 155H processor and 16GB of RAM, it tackles everyday tasks and creative projects with ease. Store all your files and applications on the massive 1TB SSD, ensuring speedy boot times and application loading. Enjoy crisp visuals on the 14-inch, 1920 x 1200 display, perfect for work, entertainment, or browsing the web. While boasting integrated graphics, the Intel Integrated Arc GPU delivers smooth performance for everyday tasks and even some light gaming.",
+    "excerpt": "Stylish, sturdy, all-aluminum build with excellent performance and improved battery life.",
+    "price": 15000000,
+    "tags": ["Laptop", "Electronics"],
+    "thumbnail": "https://images.expertreviews.co.uk/wp-content/uploads/2023/06/acer_swift_go_14_sfg14-71_1.jpg?width=1200&height=675&fit=crop&format=webply",
+    "images": [
+      "https://images.expertreviews.co.uk/wp-content/uploads/2023/06/acer_swift_go_14_sfg14-71_1.jpg?width=1200&height=675&fit=crop&format=webply",
+      "https://images.expertreviews.co.uk/wp-content/uploads/2023/06/acer_swift_go_14_sfg14-71_6.jpg?width=1200&height=675&fit=crop&format=webply"
+    ],
+    "createdAt": "2024-01-22T13:15:24.887Z",
+    "updatedAt": "2024-01-25T18:19:54.047Z"
+  },
+  {
+    "name": "Dell XPS 13 Plus",
+    "slug": "dell-xps-13-plus",
+    "description": "The Dell XPS 13 Plus stuns with a minimalist design crafted from machined aluminum for a luxurious yet durable feel. This compact powerhouse packs a 12th Gen Intel Core i7-1260P processor and 16GB of LPDDR5 memory, tackling demanding tasks and multitasking with ease. Immerse yourself in stunning visuals with the gorgeous 13.4-inch, 3.5K (3456 x 2160) OLED display, perfect for creative work, entertainment, or browsing. Store all your essentials on the spacious 512GB PCIe NVMe SSD for fast boot times, application loading, and file transfers. The integrated Intel Iris Xe Graphics delivers smooth performance for everyday tasks, multimedia, and even casual gaming.",
+    "excerpt": "Minimalist design with powerful performance in a compact form factor.",
+    "price": 19502000,
+    "tags": ["Laptop", "Electronics"],
+    "thumbnail": "https://media.cnn.com/api/v1/images/stellar/prod/220803094326-dell-xps-13-plus-1.jpg?c=original",
+    "images": [
+      "https://media.cnn.com/api/v1/images/stellar/prod/220803094326-dell-xps-13-plus-1.jpg?c=original",
+      "https://media.cnn.com/api/v1/images/stellar/prod/220803094553-dell-xps-13-plus-6.jpg?q=w_1110,c_fill/f_webp"
+    ],
+    "createdAt": "2024-08-09T03:01:50.432Z",
+    "updatedAt": "2023-05-17T16:42:21.208Z"
+  },
+  {
+    "name": "Razer Blade 14",
+    "slug": "razer-blade-14",
+    "description": "The Razer Blade 14 is a portable gaming powerhouse with a high-performance AMD Ryzen 9 CPU, 16GB of DDR5 memory, and a powerful NVIDIA GeForce RTX 4070 graphics card. The 14-inch QHD display boasts a high 165Hz refresh rate for smooth gameplay, while the 1TB PCIe NVMe SSD ensures fast boot times and rapid file transfers.",
+    "excerpt": "Portable gaming laptop with high performance and sleek design.",
+    "price": 37507000,
+    "tags": ["Laptop", "Electronics"],
+    "thumbnail": "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc3/Razer_Blade_14_2022_Light_Speed.png",
+    "images": [
+      "https://www.notebookcheck.net/fileadmin/Notebooks/News/_nc3/Razer_Blade_14_2022_Light_Speed.png",
+      "https://i.pcmag.com/imagery/reviews/01dnlPma5zFUPFMEpVuAjDx-2..v1623424646.jpg"
+    ],
+    "createdAt": "2023-06-15T09:30:00.000Z",
+    "updatedAt": "2023-06-15T09:30:00.000Z"
+  },
+  {
+    "name": "Lenovo ThinkPad X1 Carbon Gen 10",
+    "slug": "lenovo-thinkpad-x1-carbon-gen-10",
+    "description": "The Lenovo ThinkPad X1 Carbon Gen 10 is a business laptop built to endure. Its carbon fiber chassis is lightweight yet military-grade tough, perfect for busy professionals on the go. The 12th Gen Intel Core i7 processor and 16GB of LPDDR5 memory ensure smooth performance for demanding applications and multitasking. A gorgeous 14-inch, 2.8K OLED display delivers stunning visuals for presentations or creative work. The ThinkPad X1 Carbon Gen 10 is renowned for its exceptional keyboard, making it a joy to use throughout the workday. With its blend of durability, power, and comfort, this laptop is ideal for any business professional.",
+    "excerpt": "Durable and powerful business laptop with excellent typing experience.",
+    "price": 24712000,
+    "tags": ["Laptop", "Electronics"],
+    "thumbnail": "https://cdn.arstechnica.net/wp-content/uploads/2022/08/IMG_0331.jpeg",
+    "images": [
+      "https://cdn.arstechnica.net/wp-content/uploads/2022/08/IMG_0331.jpeg",
+      "https://www.yangcanggih.com/wp-content/uploads/2022/01/Lenovo-ThinkPad-X1-Carbon-10th-Gen-3.webp"
+    ],
+    "createdAt": "2023-06-15T09:30:00.000Z",
+    "updatedAt": "2023-06-15T09:30:00.000Z"
+  },
+  {
+    "name": "Samsung Galaxy Book3 Ultra",
+    "slug": "samsung-galaxy-book3-ultra",
+    "description": "The Samsung Galaxy Book3 Ultra is a powerhouse laptop disguised in a slim and light design. Its 16-inch, 3K AMOLED display boasts stunning visuals with vibrant colors and deep blacks, making it a top choice for creative professionals and entertainment enthusiasts.  Under the hood, a powerful Intel Core i9 processor and 32GB of RAM tackle demanding tasks and multitasking with ease. The NVIDIA GeForce RTX 4070 graphics card delivers exceptional performance for graphics-intensive applications and even high-end gaming. This combination of power, portability, and a dazzling display makes the Galaxy Book3 Ultra a compelling option for users who demand the best.",
+    "excerpt": "Top example of OLED display with slim, light, and portable design.",
+    "price": 32911000,
+    "tags": ["Laptop", "Electronics"],
+    "thumbnail": "https://media.gq-magazine.co.uk/photos/63da803d193e8bc313edd4f9/16:9/w_2560%2Cc_limit/GalaxyBook3_Ultra_HP.jpg",
+    "images": [
+      "https://media.gq-magazine.co.uk/photos/63da803d193e8bc313edd4f9/16:9/w_2560%2Cc_limit/GalaxyBook3_Ultra_HP.jpg",
+      "https://www.pcworld.com/wp-content/uploads/2023/11/Book3-Ultra-.jpg?quality=50&strip=all"
+    ],
+    "createdAt": "2023-06-15T09:30:00.000Z",
+    "updatedAt": "2023-06-15T09:30:00.000Z"
+  },
+  {
+    "name": "MSI Titan GT77",
+    "slug": "msi-titan-gt77",
+    "description": "Unleash desktop-crushing power on the go with the MSI Titan GT77. This high-end gaming laptop boasts a monstrous Intel Core i9 processor and a whopping 64GB of DDR5 memory, letting you conquer demanding games and creative projects with ease. Experience unparalleled visuals on the massive 17.3-inch, 4K UHD display featuring a smooth 144Hz refresh rate and cutting-edge mini-LED technology for incredible contrast and color accuracy. The NVIDIA GeForce RTX 4090 graphics card, the top of the line, handles even the most graphically intense games at high settings with ease. Packed with a spacious 2TB PCIe NVMe SSD for storage, the MSI Titan GT77 is the ultimate weapon for serious gamers and creative professionals who demand the absolute best.",
+    "excerpt": "High-end gaming laptop with desktop-like performance and mini-LED display.",
+    "price": 71935000,
+    "tags": ["Laptop", "Electronics"],
+    "thumbnail": "https://assets.hardwarezone.com/img/2022/09/MSITitanGT77_01.jpg",
+    "images": [
+      "https://assets.hardwarezone.com/img/2022/09/MSITitanGT77_01.jpg",
+      "https://www.notebookcheck.net/fileadmin/Notebooks/MSI/Titan_GT77_12UHS/FHDtitan_gt77_case_7.jpg"
+    ],
+    "createdAt": "2023-06-15T09:30:00.000Z",
+    "updatedAt": "2023-06-15T09:30:00.000Z"
+  },
+  {
+    "name": "Apple MacBook Pro (M2, 2023)",
+    "slug": "apple-macbook-pro",
+    "description": "The Apple MacBook Pro (M2, 2023) delivers incredible performance on the go. Its Apple M2 Pro chip with 16-core GPU tackles demanding tasks and creative projects with ease. The stunning 14.2-inch Liquid Retina XDR display boasts a high resolution of 3024x1964, showcasing vibrant colors and deep blacks for an immersive viewing experience. With 16GB of unified memory, you can multitask seamlessly and keep your essential applications open. This powerful and portable MacBook Pro is ideal for creative professionals, students, and anyone who needs a machine that can handle demanding workloads while remaining light and easy to carry.",
+    "excerpt": "Incredible performance and stunning display in a portable design.",
+    "price": 29926000,
+    "tags": ["Laptop", "Electronics"],
+    "thumbnail": "https://cdn.mos.cms.futurecdn.net/ybU2vqdV6MSB37mSwuVEvV.jpg",
+    "images": [
+      "https://cdn.mos.cms.futurecdn.net/ybU2vqdV6MSB37mSwuVEvV.jpg",
+      "https://cdn.mos.cms.futurecdn.net/FJtmSnP7Xy6mnPDtVYEuy8.png"
+    ],
+    "createdAt": "2023-06-15T09:30:00.000Z",
+    "updatedAt": "2023-06-15T09:30:00.000Z"
+  },
+  {
+    "name": "Asus ROG Zephyrus G14",
+    "slug": "asus-rog-zephyrus-g14",
+    "description": "The ASUS ROG Zephyrus G14 strikes the perfect balance between power and portability. This sleek laptop packs a punch with an AMD Ryzen 9 processor and 16GB of DDR5 memory, letting you conquer demanding games and creative applications with ease. Immerse yourself in smooth, high-framerate gameplay on the vibrant 14-inch, 2560 x 1440 display featuring a silky-smooth 120Hz refresh rate. The NVIDIA GeForce RTX 3060 graphics card handles even the latest games at high settings, while the 1TB PCIe NVMe SSD ensures fast boot times and rapid game loading. Combining powerful performance with a compact design, the ROG Zephyrus G14 is the ideal companion for gamers on the go.",
+    "excerpt": "Combines powerful gaming performance with portability and sleek design.",
+    "price": 25579000,
+    "tags": ["Laptop", "Electronics"],
+    "thumbnail": "https://cdn.mos.cms.futurecdn.net/f8eP4PQqsVBKRUiUd5uMEH.jpg",
+    "images": [
+      "https://cdn.mos.cms.futurecdn.net/f8eP4PQqsVBKRUiUd5uMEH.jpg",
+      "https://www.yangcanggih.com/wp-content/uploads/2022/06/ASUS-Zephyrus-G14-2022-1.webp"
+    ],
+    "createdAt": "2023-06-15T09:30:00.000Z",
+    "updatedAt": "2023-06-15T09:30:00.000Z"
+  },
+  {
+    "name": "Acer Nitro 16",
+    "slug": "acer-nitro-16",
+    "description": "The Acer Nitro 16 offers a compelling blend of gaming muscle and everyday practicality. Its AMD Ryzen 5 processor paired with 16GB of DDR5 RAM tackles games and everyday tasks with ease. Experience smooth, tear-free visuals on the large 16-inch, 1920 x 1200 display boasting a high 165Hz refresh rate and G-Sync technology for a seamless gaming experience. The NVIDIA GeForce RTX 4050 graphics card handles modern games at good settings, while the 512GB PCIe NVMe SSD ensures fast boot times and speedy game loading. With a focus on balanced performance, a bright display, and potentially good battery life (information not provided in JSON), the Acer Nitro 16 is a solid choice for gamers seeking a reliable and affordable option.",
+    "excerpt": "Competent gaming performance with a bright G-Sync screen and solid battery life.",
+    "price": 15000000,
+    "tags": ["Laptop", "Electronics"],
+    "thumbnail": "https://laptopmedia.com/wp-content/uploads/2023/09/8-7.jpg",
+    "images": [
+      "https://laptopmedia.com/wp-content/uploads/2023/09/8-7.jpg",
+      "https://stuff.co.za/wp-content/uploads/2024/01/Acer-Nitro-16-Review-5.png"
+    ],
+    "createdAt": "2023-06-15T09:30:00.000Z",
+    "updatedAt": "2023-06-15T09:30:00.000Z"
+  },
+  {
+    "name": "Dell XPS 17",
+    "slug": "dell-xps-17",
+    "description": "Unleash your creative potential with the Dell XPS 17. This powerhouse laptop boasts a stunning 17-inch, 4K UHD+ display, perfect for designers, editors, and anyone who needs ample workspace and exceptional clarity. Despite the large screen, the XPS 17 maintains a surprisingly slim design, making it easier to transport. Under the hood, a powerful Intel Core i9 processor and a whopping 32GB of DDR5 memory tackle demanding creative tasks and multitasking with ease. The NVIDIA GeForce RTX 4080 graphics card ensures smooth performance for graphics-intensive applications and even high-end gaming. Combining a large, high-resolution display with a powerful feature set in a slim design, the Dell XPS 17 is ideal for creative professionals who value both performance and portability.",
+    "excerpt": "Slim design with a large 17-inch screen ideal for productivity.",
+    "price": 47295000,
+    "tags": ["Laptop", "Electronics"],
+    "thumbnail": "https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/07/rear-of-an-open-dell-xps-17-2jpg_53002858606_o.jpg",
+    "images": [
+      "https://static1.howtogeekimages.com/wordpress/wp-content/uploads/2023/07/rear-of-an-open-dell-xps-17-2jpg_53002858606_o.jpg",
+      "https://www.digitaltrends.com/wp-content/uploads/2022/06/dell-xps-17-9720-angled-front-view-e1654281841267.jpg?p=1"
+    ],
+    "createdAt": "2023-06-15T09:30:00.000Z",
+    "updatedAt": "2023-06-15T09:30:00.000Z"
+  },
+  {
+    "name": "HP Spectre x360 14",
+    "slug": "hp-spectre-x360-14",
+    "description": "The HP Spectre x360 14 is a versatile 2-in-1 laptop that seamlessly transforms from laptop to tablet. Its stunning 13.5-inch, 3K2K OLED display boasts vibrant colors and deep blacks, making it ideal for creative work, entertainment, and presentations. The premium build quality features a sleek design that's both stylish and durable. Powered by an Intel Core i7 processor with 16GB of RAM, it tackles everyday tasks and creative projects with ease. While the Intel Iris Xe graphics are integrated, they offer sufficient performance for everyday use and casual creativity. With a spacious 1TB PCIe NVMe SSD, you'll have ample storage for your files and applications. This combination of power, versatility, and a gorgeous display makes the HP Spectre x360 14 a compelling choice for professionals and creative minds who value both style and functionality.",
+    "excerpt": "Versatile 2-in-1 laptop with stunning OLED display and premium build quality.",
+    "price": 26086000,
+    "tags": ["Laptop", "Electronics"],
+    "thumbnail": "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2021/08/HP-Spectre-x360-14-1-of-7.jpg",
+    "images": [
+      "https://cdn0.tnwcdn.com/wp-content/blogs.dir/1/files/2021/08/HP-Spectre-x360-14-1-of-7.jpg",
+      "https://www.digitaltrends.com/wp-content/uploads/2020/12/hp-spectre-1.jpg?p=1"
+    ],
+    "createdAt": "2023-06-15T09:30:00.000Z",
+    "updatedAt": "2023-06-15T09:30:00.000Z"
+  },
+  {
+    "name": "Microsoft Surface Laptop 5",
+    "slug": "microsoft-surface-laptop-5",
+    "description": "The Microsoft Surface Laptop 5 embodies elegance with its high-resolution touchscreen and premium design. The 13.5-inch PixelSense display boasts a crisp 2256 x 1504 resolution, perfect for creative work, browsing, and entertainment. The sleek and lightweight design makes it highly portable, ideal for those who work on the go. Under the hood, an Intel Core i7 processor paired with 16GB of LPDDR5 memory tackles everyday tasks and multitasking with ease. While the Intel Iris Xe graphics are integrated, they offer smooth performance for everyday use and casual creative projects. With a spacious 512GB SSD, you'll have ample storage for your files and applications. This combination of style, performance, and a stunning touchscreen makes the Surface Laptop 5 an attractive option for students, professionals, and anyone who values a premium experience.",
+    "excerpt": "Elegant design with a high-resolution touchscreen and strong performance.",
+    "price": 22823000,
+    "tags": ["Laptop", "Electronics"],
+    "thumbnail": "https://www.digitaltrends.com/wp-content/uploads/2022/10/surface-laptop-5-02.jpg?p=1",
+    "images": [
+      "https://www.digitaltrends.com/wp-content/uploads/2022/10/surface-laptop-5-02.jpg?p=1",
+      "https://i0.wp.com/www.smartprix.com/bytes/wp-content/uploads/2022/11/Surface-Laptop-5.jpg?fit=1085%2C701&ssl=1"
+    ],
+    "createdAt": "2023-06-15T09:30:00.000Z",
+    "updatedAt": "2023-06-15T09:30:00.000Z"
+  },
+  {
+    "name": "Lenovo Legion 5 Pro",
+    "slug": "lenovo-legion-5-pro",
+    "description": "The Lenovo Legion 5 Pro is a gaming laptop built for serious performance. Its AMD Ryzen 7 processor and 16GB of DDR5 memory tackle demanding games with ease, ensuring smooth gameplay even in high-intensity titles. Experience lightning-fast responsiveness and seamless multitasking. Immerse yourself in stunning visuals on the large 16-inch, 2560 x 1600 display featuring a buttery-smooth 165Hz refresh rate, eliminating blur and ensuring crisp action during fast-paced games. The NVIDIA GeForce RTX 3070 graphics card handles even the latest games at good settings, while the 1TB PCIe NVMe SSD ensures fast boot times and rapid game loading. With a focus on performance, a high refresh rate display, and a solid build quality, the Lenovo Legion 5 Pro is a compelling choice for gamers who demand a reliable and powerful machine.",
+    "excerpt": "Powerful gaming laptop with high refresh rate display and solid build quality.",
+    "price": 29349000,
+    "tags": ["Laptop", "Electronics"],
+    "thumbnail": "https://images.squarespace-cdn.com/content/v1/5f04f767ded4a14e876e6190/1628226558275-M102I6H9UPQVK05G4LU0/Legion+5+Pro+Back+Charging+Top.jpg",
+    "images": [
+      "https://images.squarespace-cdn.com/content/v1/5f04f767ded4a14e876e6190/1628226558275-M102I6H9UPQVK05G4LU0/Legion+5+Pro+Back+Charging+Top.jpg",
+      "https://assets-prd.ignimgs.com/2022/07/26/lenogo-legion-5-pro-7-1658879377132.jpeg"
+    ],
+    "createdAt": "2023-06-15T09:30:00.000Z",
+    "updatedAt": "2023-06-15T09:30:00.000Z"
+  },
+  {
+    "name": "Asus ZenBook Pro Duo 15",
+    "slug": "asus-zenbook-pro-duo-15",
+    "description": "Unleash your creative potential with the Asus ZenBook Pro Duo 15. This powerhouse laptop boasts a stunning 15.6-inch, 4K OLED main display perfect for exceptional clarity and vibrant colors. But the true innovation lies in the secondary ScreenPad Plus, a built-in touch display that expands your workspace and streamlines your workflow.  The Intel Core i9 processor paired with a whopping 32GB of DDR5 memory tackles demanding creative applications and multitasking with ease. The NVIDIA GeForce RTX 3080 graphics card ensures smooth performance for video editing, 3D rendering, and even high-end gaming. With a spacious 1TB PCIe NVMe SSD, you'll have ample storage for your creative projects and essential files. The Asus ZenBook Pro Duo 15 is a unique and powerful option for creative professionals who demand a dual-screen experience to maximize their productivity.",
+    "excerpt": "Dual-screen setup for creative professionals with top-notch performance.",
+    "price": 48926000,
+    "tags": ["Laptop", "Electronics"],
+    "thumbnail": "https://laptopmedia.com/wp-content/uploads/2021/06/asuszenbookproduo15oledux582featured.jpg",
+    "images": [
+      "https://laptopmedia.com/wp-content/uploads/2021/06/asuszenbookproduo15oledux582featured.jpg",
+      "https://www.ungeek.ph/wp-content/uploads/2021/06/asus_zenbook_pro_duo_ux582_review_image1.jpg"
+    ],
+    "createdAt": "2023-06-15T09:30:00.000Z",
+    "updatedAt": "2023-06-15T09:30:00.000Z"
+  },
+  {
+    "name": "HP Envy x360 15",
+    "slug": "hp-envy-x360-15",
+    "description": "The HP Envy x360 15 is a versatile 2-in-1 laptop that seamlessly transforms from laptop to tablet, perfect for students, professionals, and anyone who values flexibility. The 15.6-inch FHD touchscreen display allows for intuitive interaction and creative freedom.  Powered by an AMD Ryzen 7 processor with 16GB of DDR4 memory, it tackles everyday tasks and creative projects with ease. The integrated AMD Radeon Graphics provide sufficient performance for everyday use, browsing, and casual creative work. With a spacious 512GB PCIe NVMe SSD, you'll have ample storage for your files and applications. Known for long battery life (information not provided in JSON, but a selling point mentioned in the description), the HP Envy x360 15 is a compelling choice for those who value both performance and productivity on the go.",
+    "excerpt": "Flexible 2-in-1 design with strong performance and long battery life.",
+    "price": 13998000,
+    "tags": ["Laptop", "Electronics"],
+    "thumbnail": "https://www.digitaltrends.com/wp-content/uploads/2021/05/hp-envy-x360-15-2021-ryzen-3.jpg?p=1",
+    "images": [
+      "https://www.digitaltrends.com/wp-content/uploads/2021/05/hp-envy-x360-15-2021-ryzen-3.jpg?p=1",
+      "https://sm.pcmag.com/t/pcmag_uk/review/h/hp-envy-x3/hp-envy-x360-15-2021_cfjr.1920.jpg"
+    ],
+    "createdAt": "2023-06-15T09:30:00.000Z",
+    "updatedAt": "2023-06-15T09:30:00.000Z"
+  },
+  {
+    "name": "HP Omen 17",
+    "slug": "hp-omen-17",
+    "description": "Dominate the battlefield with the HP Omen 17, a high-end gaming laptop built for unparalleled performance. Its monstrous Intel Core i7 processor and a whopping 32GB of DDR5 memory conquer demanding games and creative tasks without breaking a sweat. Dive into breathtaking visuals with the massive 17.3-inch, 4K UHD display that brings your favorite titles to life in stunning detail. The NVIDIA GeForce RTX 3070 graphics card delivers silky-smooth gameplay even at high settings, ensuring you experience every frame with exceptional clarity. With a spacious 1TB PCIe NVMe SSD, you'll have ample storage for your expansive game library and essential files. The HP Omen 17 is a powerful and immersive gaming companion, ideal for serious players who demand the best.",
+    "excerpt": "High-end gaming laptop with powerful graphics and immersive display.",
+    "price": 38341000,
+    "tags": ["Laptop", "Electronics"],
+    "thumbnail": "https://www.pcworld.com/wp-content/uploads/2023/11/HP-Omen-17-2023-Produktbild-Test-1.jpg?quality=50&strip=all",
+    "images": [
+      "https://www.pcworld.com/wp-content/uploads/2023/11/HP-Omen-17-2023-Produktbild-Test-1.jpg?quality=50&strip=all",
+      "https://b2c-contenthub.com/wp-content/uploads/2023/11/HP-Omen-17-2023-geoffnet.jpg?quality=50&strip=all"
+    ],
+    "createdAt": "2023-06-15T09:30:00.000Z",
+    "updatedAt": "2023-06-15T09:30:00.000Z"
+  },
+  {
+    "name": "Asus VivoBook S15",
+    "slug": "asus-vivobook-s15",
+    "description": "The Asus VivoBook S15 is a budget-friendly laptop that combines a stylish design with good everyday performance. The 15.6-inch, Full HD display offers clear visuals for daily tasks like browsing, watching videos, and working on documents. Powered by an Intel Core i5 processor with 8GB of DDR4 memory, it tackles everyday tasks and light creative projects with ease. The integrated Intel Iris Xe Graphics handle basic tasks and multimedia playback without a hitch. With a spacious 512GB PCIe NVMe SSD, you'll have ample storage for your files and applications. This combination of affordability, sleek design, and everyday performance makes the Asus VivoBook S15 a compelling choice for students, casual users, and those on a budget.",
+    "excerpt": "Affordable laptop with a sleek design and good performance.",
+    "price": 10502000,
+    "tags": ["Laptop", "Electronics"],
+    "thumbnail": "https://laptopmedia.com/wp-content/uploads/2018/11/vivobooks15s530.png",
+    "images": [
+      "https://laptopmedia.com/wp-content/uploads/2018/11/vivobooks15s530.png",
+      "https://theaxo.com/wp-content/uploads/2020/06/Asus-VivoBook-S15-Laptop-Review-027.jpg"
+    ],
+    "createdAt": "2023-06-15T09:30:00.000Z",
+    "updatedAt": "2023-06-15T09:30:00.000Z"
+  },
+  {
+    "name": "Dell Inspiron 14 5000",
+    "slug": "dell-inspiron-14-5000",
+    "description": "The Dell Inspiron 14 5000 is a compact and affordable laptop that prioritizes everyday functionality. Its 14-inch, Full HD display provides ample space for work, browsing, and entertainment. Powered by an Intel Core i5 processor with 8GB of DDR4 memory, it tackles everyday tasks like web browsing, document editing, and video conferencing with ease. The integrated Intel UHD Graphics handle basic multimedia tasks and casual gaming without a hitch. With a 256GB SSD, you'll have enough storage for your essential files and applications. This combination of portability, affordability, and reliable performance makes the Dell Inspiron 14 5000 a compelling choice for students, casual users, and those on a tight budget.",
+    "excerpt": "Compact and budget-friendly laptop with reliable performance.",
+    "price": 8200000,
+    "tags": ["Laptop", "Electronics"],
+    "thumbnail": "https://i.dell.com/is/image/DellContent/content/dam/ss2/product-images/dell-client-products/notebooks/inspiron-notebooks/14-5425/media-gallery/notebook-inspiron-14-5425-2-in-1-gy-gallery-4.psd?fmt=pjpg&pscan=auto&scl=1&wid=4582&hei=2920&qlt=100,1&resMode=sharp2&size=4582,2920&chrss=full&imwidth=5000",
+    "images": [
+      "https://i.dell.com/is/image/DellContent/content/dam/ss2/product-images/dell-client-products/notebooks/inspiron-notebooks/14-5425/media-gallery/notebook-inspiron-14-5425-2-in-1-gy-gallery-4.psd?fmt=pjpg&pscan=auto&scl=1&wid=4582&hei=2920&qlt=100,1&resMode=sharp2&size=4582,2920&chrss=full&imwidth=5000",
+      "https://www.static-src.com/wcsstore/Indraprastha/images/catalog/full//107/MTA-9899007/dell_dell_inspiron_14_5000_series_2in1_5400_notebook_-i7-1065g7-_8_gb-_512gb_ssd-_14-0_inch-_full_hd-intel_uhd-_win_10_home-_full01_k69qzeaz.jpg"
+    ],
+    "createdAt": "2023-06-15T09:30:00.000Z",
+    "updatedAt": "2023-06-15T09:30:00.000Z"
+  },
+  {
+    "name": "Microsoft Surface Pro 9",
+    "slug": "microsoft-surface-pro-9",
+    "description": "The Microsoft Surface Pro 9 seamlessly transforms from a laptop to a tablet, making it a versatile companion for students, professionals, and artists. Its stunning 13-inch display boasts a high 2880 x 1920 resolution, offering exceptional clarity and vibrant colors for creative work, entertainment, and presentations. Powered by a 12th Gen Intel Core i7 processor with 16GB of LPDDR4x memory, it tackles demanding tasks and creative projects with ease. The integrated Intel Iris Xe Graphics handle everyday tasks, browsing, and casual creative work without a hitch. With a spacious 512GB SSD, you'll have ample storage for your files and applications. This combination of performance, versatility, and a gorgeous display makes the Microsoft Surface Pro 9 a compelling choice for those who value both style and functionality.",
+    "excerpt": "Versatile 2-in-1 device with excellent display and performance.",
+    "price": 26941000,
+    "tags": ["Laptop", "Electronics"],
+    "thumbnail": "https://www.zdnet.com/a/img/2022/10/24/24c292f6-c1f6-40c0-87bc-cdbf8d730ad7/microsoft-surface-pro-9-blue-cover.jpg",
+    "images": [
+      "https://www.zdnet.com/a/img/2022/10/24/24c292f6-c1f6-40c0-87bc-cdbf8d730ad7/microsoft-surface-pro-9-blue-cover.jpg",
+      "https://i.pcmag.com/imagery/reviews/04oXeqT4MuFbMo7fc7QSrAx-2..v1680110421.jpg"
+    ],
+    "createdAt": "2023-06-15T09:30:00.000Z",
+    "updatedAt": "2023-06-15T09:30:00.000Z"
+  },
+  {
+    "name": "Lenovo Yoga 7i",
+    "slug": "lenovo-yoga-7i",
+    "description": "The Lenovo Yoga 7i is a stylish 2-in-1 laptop that effortlessly transforms from a traditional laptop to a tablet, perfect for students, artists, and professionals on the go. The 14-inch FHD touchscreen display allows for intuitive interaction and creative freedom, letting you draw, write, or navigate with ease. Powered by an 11th Gen Intel Core i5 processor with 8GB of DDR4 memory, it handles everyday tasks and creative projects with confidence. The integrated Intel Iris Xe Graphics ensures smooth performance for everyday use, browsing, and casual photo editing. With a generous 512GB PCIe NVMe SSD, you'll have ample storage for your files and applications. This combination of versatility, stylish design, and solid performance makes the Lenovo Yoga 7i a compelling choice for those who value both style and functionality.",
+    "excerpt": "Flexible and stylish 2-in-1 laptop with solid performance.",
+    "price": 11202000,
+    "tags": ["Laptop", "Electronics"],
+    "thumbnail": "https://www.trustedreviews.com/wp-content/uploads/sites/54/2022/03/yoga-7-8-1.jpgy",
+    "images": [
+      "https://www.trustedreviews.com/wp-content/uploads/sites/54/2022/03/yoga-7-8-1.jpgy",
+      "https://i.pcmag.com/imagery/reviews/0712vZIXE8m0tUJjIAaSoFH-1..v1659984880.jpg"
+    ],
+    "createdAt": "2023-06-15T09:30:00.000Z",
+    "updatedAt": "2023-06-15T09:30:00.000Z"
+  },
+  {
+    "name": "Acer Aspire 5",
+    "slug": "acer-aspire-5",
+    "description": "The Acer Aspire 5 is an affordable laptop that delivers everyday performance without breaking the bank. Its 15.6-inch, Full HD display provides ample space for work, browsing, and entertainment. Powered by an AMD Ryzen 5 processor with 8GB of DDR4 memory, it tackles everyday tasks like web browsing, document editing, and video conferencing with ease. The AMD Radeon Graphics handle basic multimedia tasks and casual browsing without a hitch. With a 256GB SSD, you'll have enough storage for your essential files and applications. This combination of affordability, a clear display, and good performance for everyday use makes the Acer Aspire 5 a compelling choice for students, casual users, and those on a tight budget.",
+    "excerpt": "Affordable laptop with good performance for everyday tasks.",
+    "price": 7598000,
+    "tags": ["Laptop", "Electronics"],
+    "thumbnail": "https://cdn.mos.cms.futurecdn.net/4gJ3nvLGXEYrxAPNyySvLG.jpg",
+    "images": [
+      "https://cdn.mos.cms.futurecdn.net/4gJ3nvLGXEYrxAPNyySvLG.jpg",
+      "https://www.techadvisor.com/wp-content/uploads/2023/08/Acer-Aspire-5-A515_Test-3.jpg?quality=50&strip=all"
+    ],
+    "createdAt": "2023-06-15T09:30:00.000Z",
+    "updatedAt": "2023-06-15T09:30:00.000Z"
+  },
+  {
+    "name": "Asus TUF Dash F15",
+    "slug": "asus-tuf-dash-f15",
+    "description": "The Asus TUF Dash F15 strikes a compelling balance between affordability and gaming prowess. This laptop packs a punch with an Intel Core i7 processor and 16GB of DDR4 memory, letting you conquer demanding games at moderate settings. Experience smooth, tear-free visuals on the vibrant 15.6-inch, Full HD display featuring a high 144Hz refresh rate, ensuring silky-smooth gameplay in fast-paced titles. The NVIDIA GeForce RTX 3050 Ti graphics card handles modern games at good settings, while the 512GB PCIe NVMe SSD ensures fast boot times and rapid game loading. With a focus on affordability, a high refresh rate display, and decent gaming performance, the Asus TUF Dash F15 is a solid choice for gamers on a budget looking for a capable machine.",
+    "excerpt": "Affordable gaming laptop with strong performance and high refresh rate display.",
+    "price": 23989000,
+    "tags": ["Laptop", "Electronics"],
+    "thumbnail": "https://www.yangcanggih.com/wp-content/uploads/2022/10/ASUS-TUF-DASH-F15-FX517-1.jpg",
+    "images": [
+      "https://www.yangcanggih.com/wp-content/uploads/2022/10/ASUS-TUF-DASH-F15-FX517-1.jpg",
+      "https://assetsio.gnwcdn.com/asus%20tuf%20dash%2015%20review.jpg?width=1600&height=900&fit=crop&quality=100&format=png&enable=upscale&auto=webp"
+    ],
+    "createdAt": "2023-06-15T09:30:00.000Z",
+    "updatedAt": "2023-06-15T09:30:00.000Z"
+  },
+  {
+    "name": "Razer Book 13",
+    "slug": "razer-book-13",
+    "description": "The Razer Book 13 is a compact powerhouse that packs a punch despite its size. Featuring a premium aluminum build and a long-lasting battery (information not provided in JSON, but a selling point mentioned in the description), it's perfect for professionals and on-the-go users who value portability. The 13.4-inch Full HD display delivers crisp visuals for work, entertainment, and creative projects. Powered by an Intel Core i7 processor with 16GB of LPDDR4x memory, it tackles everyday tasks and creative projects with ease. The integrated Intel Iris Xe Graphics handle everyday tasks, browsing, and casual photo editing without a hitch. With a spacious 512GB PCIe NVMe SSD, you'll have ample storage for your files and applications. This combination of portability, performance, and a premium design makes the Razer Book 13 a compelling choice for those who demand both power and style.",
+    "excerpt": "Compact and powerful ultrabook with a premium build and long battery life.",
+    "price": 33032000,
+    "tags": ["Laptop", "Electronics"],
+    "thumbnail": "https://cdn.mos.cms.futurecdn.net/gaki3H8tHa7LkCfUktfnaA.jpg",
+    "images": [
+      "https://cdn.mos.cms.futurecdn.net/gaki3H8tHa7LkCfUktfnaA.jpg",
+      "https://cdn.mos.cms.futurecdn.net/nqBBNm6rbQESYGkYfKhdVR.jpg"
+    ],
+    "createdAt": "2023-06-15T09:30:00.000Z",
+    "updatedAt": "2023-06-15T09:30:00.000Z"
+  },
+  {
+    "name": "Kaspersky Internet Security",
+    "slug": "kaspersky-internet-security",
+    "description": "Kaspersky Internet Security goes beyond basic antivirus protection, offering a comprehensive suite of features to shield your devices from online threats. It protects against malware, phishing attempts, and harmful websites, secures your sensitive information, and even provides privacy tools like a VPN (depending on the package) to keep your online activity shielded. It also monitors your network for suspicious activity and offers parental controls (depending on the package) for a well-rounded security solution that gives you peace of mind while navigating the online world.",
+    "excerpt": "Provide comprehensive protection to up to three devices in your home",
+    "price": 800000,
+    "tags": ["Software", "Security"],
+    "thumbnail": "https://img.bbystatic.com/BestBuy_US/images/products/1689/1689012_s.gif",
+    "images": [
+      "http://img.bbystatic.com/BestBuy_US/images/products/1688/1688832_54x108_s.gif",
+      "https://m.media-amazon.com/images/I/61oakWYPnjL._AC_UF1000,1000_QL80_.jpg"
+    ],
+    "createdAt": "2023-06-15T09:30:00.000Z",
+    "updatedAt": "2023-06-15T09:30:00.000Z"
+  },
+  {
+    "name": "Logitech - Marathon Mouse M705 Wireless",
+    "slug": "logitech-marathon-mouse-wireless",
+    "description": "The Logitech Marathon Mouse M705 Wireless is a great option for those who prioritize long battery life. Boasting a remarkable three years of battery life on two AA batteries, you can say goodbye to frequent replacements.  This wireless mouse features a comfortable, sculpted design for right-handed users, and offers smooth, precise cursor control thanks to its laser grade tracking. It even includes hyper-fast scrolling for breezing through long documents and web pages. With its reliable connection, comfortable design, and extended battery life, the Logitech Marathon Mouse M705 Wireless is a productivity booster for everyday use.",
+    "excerpt": "Laser technology; Unifying receiver; wireless USB interface",
+    "price": 650000,
+    "tags": ["Peripheral", "Wireless"],
+    "thumbnail": "http://img.bbystatic.com/BestBuy_US/images/products/1325/1325119_s.gif",
+    "images": [
+      "http://img.bbystatic.com/BestBuy_US/images/products/1325/1325119_s.gif",
+      "https://images.tokopedia.net/img/cache/500-square/product-1/2017/8/5/9663935/9663935_ae2423dd-01a4-44c9-bf4d-fb6062ab661b_1500_1421.jpg"
+    ],
+    "createdAt": "2023-06-15T09:30:00.000Z",
+    "updatedAt": "2023-06-15T09:30:00.000Z"
+  },
+  {
+    "name": "SanDisk Cruzer 16GB USB 2.0 Flash Drive",
+    "slug": "logitech-marathon-mouse-wireless",
+    "description": "The SanDisk Cruzer Blade 16GB USB 2.0 Flash Drive is a compact and affordable storage solution for your everyday needs. Despite its small size, it offers 16GB of storage space for your files, documents, photos, and videos. Featuring a sleek, blade-like design, it's easy to carry around and keeps your important data within reach.  While not the fastest due to its USB 2.0 interface, it allows for easy file transfer between devices and includes SanDisk's SecureAccess software for password-protecting your sensitive files (optional feature). Overall, the SanDisk Cruzer Blade 16GB is a convenient and budget-friendly choice for basic file storage and transfer.",
+    "excerpt": "For PC, Mac and Linux; retractable USB connector; drag-and-drop file backup; includes SanDisk SecureAccess software; access to 2GB of YuuWaa Cloud storage.",
+    "price": 130000,
+    "tags": ["Storage", "Drive"],
+    "thumbnail": "http://img.bbystatic.com/BestBuy_US/images/products/1325/1325119_s.gif",
+    "images": [
+      "http://img.bbystatic.com/BestBuy_US/images/products/1325/1325119_s.gif",
+      "https://images.tokopedia.net/img/cache/500-square/product-1/2017/8/5/9663935/9663935_ae2423dd-01a4-44c9-bf4d-fb6062ab661b_1500_1421.jpg"
+    ],
+    "createdAt": "2023-06-15T09:30:00.000Z",
+    "updatedAt": "2023-06-15T09:30:00.000Z"
+  },
+  {
+    "name": "Office Home & Student 2013 - Windows",
+    "slug": "office-home-student-2013",
+    "description": "The SanDisk Cruzer Blade 16GB USB 2.0 Flash Drive is a compact and affordable storage solution for your everyday needs. Despite its small size, it offers 16GB of storage space for your files, documents, photos, and videos. Featuring a sleek, blade-like design, it's easy to carry around and keeps your important data within reach.  While not the fastest due to its USB 2.0 interface, it allows for easy file transfer between devices and includes SanDisk's SecureAccess software for password-protecting your sensitive files (optional feature). Overall, the SanDisk Cruzer Blade 16GB is a convenient and budget-friendly choice for basic file storage and transfer.",
+    "excerpt": "For PC, Mac and Linux; retractable USB connector; drag-and-drop file backup; includes SanDisk SecureAccess software; access to 2GB of YuuWaa Cloud storage.",
+    "price": 2276000,
+    "tags": ["Software", "Operating System"],
+    "thumbnail": "https://www.fairsoftware.co.uk/media/b0/ea/50/1638616604/office-home-and-student-2013_neu.jpg",
+    "images": [
+      "https://www.fairsoftware.co.uk/media/b0/ea/50/1638616604/office-home-and-student-2013_neu.jpg",
+      "https://i.ebayimg.com/images/g/dkcAAOSw0GJfwk5g/s-l1200.jpg"
+    ],
+    "createdAt": "2023-06-15T09:30:00.000Z",
+    "updatedAt": "2023-06-15T09:30:00.000Z"
+  },
+  {
+    "name": "Motorola - Sliver II Bluetooth Headset - Black",
+    "slug": "motorola-sliver-bluetooth-headset",
+    "description": "Discreetly stay connected with the Motorola Sliver II Bluetooth Headset. This lightweight, behind-the-ear design offers a comfortable fit and clear audio thanks to CrystalTalk tri-mic technology. Enjoy up to 5 hours of talk time and 12 days of standby on a single charge, with an optional charging case extending your talk time for even longer calls. Compatible with most Bluetooth-enabled devices, the Sliver II lets you manage calls and music playback with ease, making it a great choice for hands-free communication on the go.",
+    "excerpt": "Compatible with most Bluetooth-enabled devices that support A2DP profiles; high-definition audio; noise cancellation; adjustable ear stem; 5 soft ear gels; rechargeable lithium-ion battery",
+    "price": 2112855,
+    "tags": ["Peripheral", "Audio"],
+    "thumbnail": "https://i.ebayimg.com/images/g/39AAAOSwHMJYEVmA/s-l1200.jpg",
+    "images": [
+      "https://i.ebayimg.com/images/g/39AAAOSwHMJYEVmA/s-l1200.jpg",
+      "https://m.media-amazon.com/images/I/41mc3m68i9L._AC_UF1000,1000_QL80_.jpg"
+    ],
+    "createdAt": "2023-06-15T09:30:00.000Z",
+    "updatedAt": "2023-06-15T09:30:00.000Z"
+  },
+  {
+    "name": "HP - Officejet 6600 Wireless e-All-In-One Printer",
+    "slug": "hp-officejet-6600-wireless-printer",
+    "description": "The HP Officejet 6600 is a wireless e-All-in-One printer designed for small businesses and home offices. It offers print, scan, copy, and fax functionalities, making it a versatile choice for productivity.  Featuring wireless connectivity, you can print from virtually anywhere and even directly from your mobile device using HP ePrint. It boasts professional-quality color printing at a low cost per page, thanks to its individual ink cartridges with high-capacity options available. With automatic on and off settings, it can help you save energy. Overall, the HP Officejet 6600 is a well-rounded solution for users seeking a wireless and affordable all-in-one printer for home or small office use.",
+    "excerpt": "Prints up to 14 ppm in black, up to 8 ppm in color35-page ADFBuilt-in wireless networking (802.11b/g/n)",
+    "price": 2456809,
+    "tags": ["Peripheral", "Printer"],
+    "thumbnail": "https://ssl-product-images.www8-hp.com/digmedialib/prodimg/lowres/c03004529.png?impolicy=Png_Res",
+    "images": [
+      "https://ssl-product-images.www8-hp.com/digmedialib/prodimg/lowres/c03004529.png?impolicy=Png_Res",
+      "https://cdn.cs.1worldsync.com/syndication/feeds/hp/inline-content/4H/9/3/C/8/F/93C8F166783F705A7F2A333A590335B894EADD93_gallery.jpg"
+    ],
+    "createdAt": "2023-06-15T09:30:00.000Z",
+    "updatedAt": "2023-06-15T09:30:00.000Z"
+  }
+]
